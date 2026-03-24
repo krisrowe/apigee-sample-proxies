@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy name="stubbed-backend" revision="1">
+    <Basepaths>/stub/v1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1711295215000</CreatedAt>
+    <Description>A targetless stubbed proxy for environment validation.</Description>
+    <DisplayName>stubbed-backend</DisplayName>
+    <LastModifiedAt>1711295215000</LastModifiedAt>
+    <Policies>
+        <Policy>Assign-Stub-Response</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetEndpoints/>
+</APIProxy>
